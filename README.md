@@ -4,16 +4,16 @@
 
 Furnihub is a retail business specializing in furniture, technology, and stationery, with a substantial dataset collected over the past four years. The company aims to leverage this data to optimize its profit margins. The goal of this analysis is to uncover insights into pricing strategies, cost of goods, and customer preferences, with the aim of driving greater profitability. Key performance indicators (KPIs) such as sales growth, profit margin, and discount effectiveness will be integral in guiding the analysis and providing actionable recommendations to achieve these objectives. 
 
-# Data Description and Methodology 
+## Data Description and Methodology 
 
 Data was collected from kaggle. It is a synthetic dataset that reflects real world store data. Data Cleaning and preprocessing was done in Python. Excel and Tableau were used for data visualization.
 
 
 ## Executive Summary 
 
-In 2024, the company achieved a 20.6% revenue growth, increasing from $608,473.83 in the previous year to $733,947.02. However, the gross profit margin remains significantly low at far below the global average of 50%. To enhance profitability, a strategic review of pricing and discount structures is essential. This report examines the key factors contributing to the low profit margin and presents actionable strategies for improvement. 
+In 2024, the company achieved a **20.6% revenue growth**, increasing from $608,473.83 in the previous year to $733,947.02. However, the gross profit margin remains significantly low at far below the **global average of 50%**. To enhance profitability, a strategic review of pricing and discount structures is essential. This report examines the key factors contributing to the low profit margin and presents actionable strategies for improvement. 
 
-![chart](charts/Dashboard 1.png)
+![chart](charts/Dashboard1.png)
 
 
 ## Sales Performance and Profitability Analysis  
@@ -28,7 +28,9 @@ A key factor contributing to this issue is the **low sales volume** of these pro
 
 ![chart](charts/Sheet5.png)
 
+
 ![charts](charts/Sheet3.png)
+
 
 ## Price Markup 
 
@@ -36,7 +38,9 @@ Another key factor contributing to product profit loss is low price markups on t
 
 Additionally, low markup strategies may be failing to drive higher sales volume, resulting in products that remain unprofitable despite being sold. This suggests a need for pricing optimization to better align costs with revenue generation. 
 
+
 ![charts](charts/Sheet4.png)
+
 
 ## Discount Effectiveness  
 
